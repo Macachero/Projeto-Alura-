@@ -180,3 +180,32 @@ footer {
 .botao-terciario:hover {
     background-color: red;
 }
+
+@media screen and (max-width: 768px) {
+    .secao-principal {
+        display: block;
+        background-image: none;
+        margin: 2em 2em;
+    }
+
+    .imagem-primaria {
+        width: 50vw;
+    }
+
+    .secao-secundaria {
+        display: block;
+    }
+
+    .secao-terciaria {
+    display: block;
+    }
+
+    .secao-quaternaria {
+    display: block;
+    }
+
+    .secao-quintaria {
+    display: block;
+    }
+    
+}
