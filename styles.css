@@ -181,7 +181,7 @@ footer {
     background-color: red;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1200px) {
     .secao-principal {
         display: block;
         background-image: none;
